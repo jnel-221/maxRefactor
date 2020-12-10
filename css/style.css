@@ -8,6 +8,7 @@ body {
   background-color: #d9dcd6;
 }
 
+/*header and navbar styling*/
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -95,7 +96,7 @@ p {
   margin-left: 25px;
 }
 
-/*Styling for Lead Generation sidebar (aside)*/
+/*Styling for Lead Generation sidebar, content, images, etc. (aside)*/
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -107,54 +108,23 @@ p {
   background-color: #2589bd;
 }
 
-.benefit-lead {
+.seoBenefits {
   margin-bottom: 32px;
   color: #ffffff;
 }
 
-.benefit-brand {
-  margin-bottom: 32px;
-  color: #ffffff;
-}
-
-.benefit-cost {
-  margin-bottom: 32px;
-  color: #ffffff;
-}
-
-.benefit-lead h3 {
-  margin-bottom: 10px;
-  text-align: center;
-}
-
-.benefit-brand h3 {
-  margin-bottom: 10px;
-  text-align: center;
-}
-
-.benefit-cost h3 {
+.seoBenefits h3 {
   margin-bottom: 10px;
   text-align: center;
 }
 
 /*image styling in sidebar*/
-.benefit-lead img {
+.seoBenefits img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
 }
 
-.benefit-brand img {
-  display: block;
-  margin: 10px auto;
-  max-width: 150px;
-}
-
-.benefit-cost img {
-  display: block;
-  margin: 10px auto;
-  max-width: 150px;
-}
 /*footer styling*/
 footer {
   padding: 30px;

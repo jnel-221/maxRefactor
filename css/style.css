@@ -51,6 +51,7 @@ a {
 p {
   font-size: 16px;
 }
+
 /*figure styling*/
 .hero {
   height: 800px;
@@ -61,8 +62,8 @@ p {
   background-position: center;
 }
 
-/*Styling for Main content, sections, and images*/
-.content {
+/*Styling for Main: content, sections, and images*/
+main {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
@@ -85,7 +86,7 @@ p {
   margin-bottom: 20px;
   font-size: 36px;
 }
-/*image styling in main sections*/
+
 .float-left {
   float: left;
   margin-right: 25px;
@@ -96,7 +97,7 @@ p {
   margin-left: 25px;
 }
 
-/*Styling for Lead Generation sidebar, content, images, etc. (aside)*/
+/*Styling for sidebar: content & images*/
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -118,7 +119,6 @@ p {
   text-align: center;
 }
 
-/*image styling in sidebar*/
 .seoBenefits img {
   display: block;
   margin: 10px auto;

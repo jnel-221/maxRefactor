@@ -5,5 +5,15 @@
 Refactoring codebase of to follow accessiblity standards and optimize site for search engines.
 
 ## Overview
-This code refactor updates the source code with semantic HTML elements, structures the css stylesheet to mirror that of the HTML index document, streamlines CSS styling, and adds accessible alt attributes for all images.
+The following changes were made: HTML elements were reviewed and replaced with semantic HTML where necessary, alt attributes added to all images to meet accessibility standards, all links reviewed for functionality,  CSS selectors/properties consolidated and organized to follow semantic structure, CSS file commented to aid in locating styles by semantic structure, images files re-sized to reduce loading time.
 
+## Languages Used
+This application uses HTML & CSS.
+
+## Screenshots of Application
+
+
+
+
+## Link to Applicaiton
+https://jnel-221.github.io/maxRefactor/

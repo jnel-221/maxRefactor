@@ -12,7 +12,9 @@ This application uses HTML & CSS.
 
 ## Screenshots of Application
 
+![Header and banner image](/images/Horiseon1.png)
 
+![Main page](/images/Horiseon2.png)
 
 
 ## Link to Applicaiton

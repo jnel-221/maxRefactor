@@ -52,7 +52,7 @@ p {
   font-size: 16px;
 }
 
-/*figure styling*/
+/*figure styling; Note, class was left on the 'empty' figure element to indicate the figure element holds styling*/
 .hero {
   height: 800px;
   width: 100%;
